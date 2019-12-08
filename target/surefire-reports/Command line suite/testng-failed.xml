@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="home1.Test22">
+        <methods>
+          <include name="Test22"/>
+        </methods>
+      </class> <!-- home1.Test22 -->
+      <class name="home1.TestSearch">
+        <methods>
+          <include name="testSearchPass1"/>
+          <include name="testSearchPass2"/>
+        </methods>
+      </class> <!-- home1.TestSearch -->
+      <class name="Test5">
+        <methods>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- Test5 -->
+      <class name="pageObjectTect.CactusSearchTest">
+        <methods>
+          <include name="finishTest"/>
+          <include name="testSearchPassByName"/>
+          <include name="testAddToBasket"/>
+          <include name="testSearchPassByNumber"/>
+          <include name="startTest"/>
+          <include name="testSearchNegativeTag"/>
+          <include name="testSearchGroup"/>
+          <include name="testSearchNegativeSpecSymbol"/>
+          <include name="testSearchDropDownChoice"/>
+          <include name="testSearchLinkXiaomi"/>
+          <include name="testSearchPriceCompare"/>
+          <include name="testSearchDropDown"/>
+        </methods>
+      </class> <!-- pageObjectTect.CactusSearchTest -->
+      <class name="Test6">
+        <methods>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- Test6 -->
+      <class name="TestActions1">
+        <methods>
+          <include name="testAct1"/>
+        </methods>
+      </class> <!-- TestActions1 -->
+      <class name="TestOfAssertion">
+        <methods>
+          <include name="Test31"/>
+        </methods>
+      </class> <!-- TestOfAssertion -->
+      <class name="exam.ExamTest">
+        <methods>
+          <include name="testUsdCurrencyPresence"/>
+          <include name="politicsPageIsOpened2"/>
+          <include name="startTest"/>
+          <include name="politicsPageIsOpened"/>
+          <include name="shiftFromUaToRu"/>
+          <include name="finishTest"/>
+        </methods>
+      </class> <!-- exam.ExamTest -->
+      <class name="TestActions2">
+        <methods>
+          <include name="testAct4"/>
+          <include name="testAct3"/>
+          <include name="testAct2"/>
+          <include name="testAct6"/>
+          <include name="testAct5"/>
+        </methods>
+      </class> <!-- TestActions2 -->
+      <class name="FirstTest">
+        <methods>
+          <include name="checkSomething"/>
+        </methods>
+      </class> <!-- FirstTest -->
+      <class name="Test3">
+        <methods>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- Test3 -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

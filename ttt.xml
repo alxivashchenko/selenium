@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!-- <suite name="AllTests" parallel="true" thread-count="5"> -->
+<suite name="AllTests" >
+    <test name="TestCactusSearch" >
+        <classes>
+            <class name="SearchCactus" />
+        </classes>
+    </test>
+</suite>
