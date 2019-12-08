@@ -34,19 +34,16 @@ public class MainPage {
 
         WebDriverWait wait = new WebDriverWait(driver, 10);
        langField.click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.
-                xpath("//a[contains(text(), 'на Русском')]")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated((By) ruLangField));
        ruLangField.click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.
-                xpath("//a[contains(text(), 'Главное')]")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated((By) mainSection));
         return mainSection.getText();
     }
 
     public float checkRateUsd() {
         WebDriverWait wait = new WebDriverWait(driver, 10);
         currencyTab.click();
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.
-                xpath("//td[text()='USD']/following-sibling::td[@class='nbu']")));
+        wait.until(ExpectedConditions.visibilityOfElementLocated((By) currencyTab));
         float usdRate = Float.parseFloat(rateUsdNbu.getText());
         return usdRate;
     }
