@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec23032-0949-4016-b190-1c3e083532c8" name="Default Changelist" comment="123push">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNew/TestNew1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webautomation.iml" afterDir="false" />
+    <list default="true" id="7ec23032-0949-4016-b190-1c3e083532c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575041606775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add to git">
+      <created>1575795121450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575795121450</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,41 +204,50 @@
       <path value="$PROJECT_DIR$/../Script45" />
     </ignored-roots>
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="add to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="534" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575728407577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="534" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1575728407577" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1575795114971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575795114971" />
     <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1575742666455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575742666455" />
-    <state width="1021" height="148" key="GridCell.Tab.0.bottom" timestamp="1575792529112">
+    <state width="1020" height="247" key="GridCell.Tab.0.bottom" timestamp="1575795402244">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="148" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575792529112" />
-    <state width="1021" height="148" key="GridCell.Tab.0.center" timestamp="1575792529111">
+    <state width="1020" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575795402244" />
+    <state width="1020" height="247" key="GridCell.Tab.0.center" timestamp="1575795402243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="148" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575792529111" />
-    <state width="1021" height="148" key="GridCell.Tab.0.left" timestamp="1575792529111">
+    <state width="1020" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575795402243" />
+    <state width="1020" height="247" key="GridCell.Tab.0.left" timestamp="1575795402242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="148" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575792529111" />
-    <state width="1021" height="148" key="GridCell.Tab.0.right" timestamp="1575792529112">
+    <state width="1020" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575795402242" />
+    <state width="1020" height="247" key="GridCell.Tab.0.right" timestamp="1575795402244">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1021" height="148" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575792529112" />
+    <state width="1020" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575795402244" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1575728331788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1575728331788" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1575790503939">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1575795540579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575790503939" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575795540579" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1575795135787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575795135787" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1575793616873">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
